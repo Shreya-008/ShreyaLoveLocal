@@ -1,4 +1,4 @@
-# ShreyaLoveLocale
+# ShreyaLoveLocal
 Name: Shreya K
 Mail: kulalshreya80@gmail.com
 College: Sahyadri College of Engineering & Management (Autonomous)
